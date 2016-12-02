@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace EmployeeReview.services
 {
-    class Employee
+    public class Employee
     {
+        public Guid Id { get; set; } = Guid.NewGuid();
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public string PhoneNum { get; set; }
+        public double Salary { get; set; }
+        public string Review { get; set; }
+        public string Department { get; set; }
+
+
+
     }
 }

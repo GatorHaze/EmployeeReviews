@@ -1,1 +1,5 @@
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\MainWindow.g.cs
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\App.g.cs
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews_MarkupCompile.cache
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews_MarkupCompile.lref
 C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\bin\Debug\EmployeeReviews.exe.config

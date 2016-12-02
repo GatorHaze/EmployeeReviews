@@ -8,5 +8,10 @@ namespace EmployeeReview.services
 {
     class Department
     {
+        public List<Employee> Employees { get; set; } = new List<Employee>();
+
+        public string Name { get; set; }
+
+        public Employee AddEmployee(string name, string email, string phoneNum, double salary)
     }
 }
