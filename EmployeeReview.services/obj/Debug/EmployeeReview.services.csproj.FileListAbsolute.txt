@@ -1,0 +1,6 @@
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReview.services\obj\Debug\EmployeeReview.services.csprojResolveAssemblyReference.cache
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReview.services\bin\Debug\EmployeeReview.services.exe.config
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReview.services\bin\Debug\EmployeeReview.services.exe
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReview.services\bin\Debug\EmployeeReview.services.pdb
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReview.services\obj\Debug\EmployeeReview.services.exe
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReview.services\obj\Debug\EmployeeReview.services.pdb
