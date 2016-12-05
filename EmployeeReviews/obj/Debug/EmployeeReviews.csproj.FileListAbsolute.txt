@@ -3,3 +3,14 @@ C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\A
 C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews_MarkupCompile.cache
 C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews_MarkupCompile.lref
 C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\bin\Debug\EmployeeReviews.exe.config
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews.csprojResolveAssemblyReference.cache
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\bin\Debug\EmployeeReviews.exe
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\bin\Debug\EmployeeReviews.pdb
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\bin\Debug\EmployeeReview.services.exe
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\bin\Debug\EmployeeReview.services.pdb
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\MainWindow.baml
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews.g.resources
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews.Properties.Resources.resources
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews.csproj.GenerateResource.Cache
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews.exe
+C:\Users\Justin Hazlewood\tiy\week-3\EmployeeReviews\EmployeeReviews\obj\Debug\EmployeeReviews.pdb

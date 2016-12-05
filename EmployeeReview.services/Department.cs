@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace EmployeeReview.services
 {
-    class Department
+    public class Department
     {
-        public List<Employee> Employees { get; set; } = new List<Employee>();
 
-        public string Name { get; set; }
-
-        public Employee AddEmployee(string name, string email, string phoneNum, double salary)
+        public string Departments { get; set; } = "N/A";
+        public string Review { get; set; } = "Has not completed review yet";
+        
     }
 }
